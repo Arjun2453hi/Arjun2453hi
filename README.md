@@ -75,26 +75,6 @@ The project focuses on understanding how large workloads can be divided into ind
 
 ---
 
-## 🔐 End-to-End Encrypted Real-Time Chat
-
-A real-time messaging system designed around **authentication, secure key exchange, and encrypted communication**.
-
-* JWT-based authentication
-* Secure registration and login
-* Token-based session management
-* Diffie–Hellman key exchange
-* Client-side shared session keys
-* End-to-end encrypted messaging
-* WebSocket-based real-time communication
-* FastAPI backend
-* React frontend
-
-The project explores how **authentication, cryptography, WebSockets, and backend architecture** come together in a real-time application.
-
-**React · FastAPI · WebSockets · JWT · Cryptography**
-
----
-
 ## 🧠 Transformer Layer Analysis — TARLP
 
 A project exploring **task-adaptive Transformer compression** and layer importance.
